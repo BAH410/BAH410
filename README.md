@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abubakarr Bah</h1>
 <h2 align="center">A Passionate Growing Web and Mobile Developer</h2>
 
-- 🌱 I’m currently learning **Everything 😂**
+- 🌱 I’m currently studing **Computer Science**
 
 - 👯 I’m looking to collaborate **with other Growing Developers**
 
 - 🤝 I’m looking for help with **how to use OpenSource**
 
-- 📫 How to reach me **abubakarrbah410@gmail.com**
+- 📫 How to reach me: **on Twitter**
 
-- ⚡ Fun fact **I love playing Football on my free time.**
+- ⚡ Fun fact **I love playing Football on my free time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
