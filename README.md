@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abubakarr Bah</h1>
-<h3 align="center">I'm a Growing Web and Mobile Developer</h3>
+<h2 align="center">A Passionate Growing Web and Mobile Developer</h2>
 
 - 🌱 I’m currently learning **Everything 😂**
 
