@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abubakarr Bah</h1>
-<h2 align="center">A Passionate Growing Web and Mobile Developer</h2>
+<h2 align="center">Experience Software Developer crafting agile solutions with a passion for Tech</h2>
 
 - 🌱 I’m currently studying **Computer Science**
 
